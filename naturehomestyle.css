@@ -1,0 +1,152 @@
+body{
+    margin: 0%;
+    text-align: center;
+}
+
+.top_container{
+    position: relative;
+}
+
+.top-bird{
+    display: flex;
+    height: 15vh;
+    width: 15vh;
+    position: absolute; 
+    right: 50px;
+    top:-30px;
+}
+
+.first-header{
+    /* padding-top: 60px; */
+    font-size: 35px ;
+    font-family: 'Alex Brush', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Satisfy', cursive;
+    color: rgb(19, 18, 18);
+    }
+
+.second-birds{
+    height: 25vh;
+    width: 20vh;
+    position:absolute;
+    left: 25px;
+    top: 150px;
+}
+
+
+.main-tree{
+    height: 75vh;
+    width: 65vh;
+}
+
+hr{
+    border: 6px dotted #333;
+    border-bottom: none;
+    width: 8%;
+    margin: 25px auto;
+}
+
+
+.second_container{
+  
+    margin-top: 20px;
+    background-color: #faebd7;
+}
+
+
+.football{
+    width: 50%;
+   margin: 40px auto;
+   text-align: left;
+   line-height: 2;
+}
+.football_image{
+    margin-top: -30px;
+    width: 25%;
+    float: left;
+    margin-right: 10px ;
+}
+
+.hiking_image{
+    margin-top: -30px;
+    width: 25%;
+    float: right;
+   margin-right: 50px;
+}
+
+.hiking_image2{
+    margin-top: -30px;
+    width: 25%;
+    float: left;
+   margin-right: 5px;
+}
+
+p{
+    font-family: 'Alex Brush', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Parisienne', cursive;
+font-family: 'Poiret One', cursive;
+font-family: 'Satisfy', cursive;
+}
+
+h1{
+    padding-top: 25px;
+}
+
+
+h3{
+    font-size: 30px;
+    color: #333;
+    font-weight: normal;
+}
+
+.contact_message{
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+.btn {
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Arial;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background: #e3c59d;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background:antiquewhite ;
+    color: #333;
+    text-decoration: none;
+  }
+
+.last_container{
+    background-color: #e3c59d;
+    padding: 15px 0 1px;
+    margin:30px 0px 0px;
+}
+
+a{
+    margin:10px 20px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #cfae83;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+.copywrite{
+    font-size: 25px;
+    font-weight: normal;
+    color: #eaf6f6;
+}
+
+  
